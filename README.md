@@ -1,6 +1,7 @@
-Designing Travel Card Carousel Slider | HTML CSS JS Tutorial
+<h2>
+  Designing Travel Card Carousel Slider | HTML CSS JS Tutorial
+</h2>
 
-<br>
 <h3>
 Youtube Video: https://youtu.be/B--aH0d76Z4
 </h3>
